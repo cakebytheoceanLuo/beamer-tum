@@ -1,21 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@cakebytheoceanLuo 
-2,853
-90,03645,404github/gitignore
- Code Pull requests 110 Actions Projects 0 Security Insights
-gitignore/TeX.gitignore
-@qogn9daohs1 qogn9daohs1 Ignore gummi previews (#3144)
-a200716 on Aug 7
-@maieul@koppor@shiftkey@arcresu@habi@lszeremeta@tjgrilley@Anton-Sakovich@seungwonpark@vkusvody@dopefishh@Konfekt@AndyHee@153957@MohHizzani@wojciechwasko@whisperity@BlueNalgene@thomaslima@thomwiggers@thiminhnhut@thilaire@taroxd@rogierslag@ryanakca@ptigwe
-274 lines (213 sloc)  2.6 KB
- 
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
